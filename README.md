@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Gucci 👋
+- 🌱 I’m currently learning full stack web development.
+- 🔭 I’m currently working on Phase 3 of the Software Engineering course at Flatiron School.
+- ✨ I'm always looking for more connections and advice from people in the field.
+- 📫 You can reach me at: gucc@umich.edu, or on [LinkedIn](www.linkedin.com/in/gucci-fan).
 
 <!--
 **9ucc1/9ucc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
