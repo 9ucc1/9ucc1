@@ -1,4 +1,4 @@
-### Hi, I'm Gucci 👋
+- 👋 Hi, I'm Gucci 
 - 🌱 I’m currently learning full stack web development.
 - 🔭 I’m currently working on Phase 3 of the Software Engineering course at Flatiron School.
 - ✨ I'm always looking for more connections and advice from people in the field.
