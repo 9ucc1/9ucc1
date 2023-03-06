@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Gucci 
 - 🌱 I’m currently learning full stack web development.
-- 🔭 I’m currently working on Phase 3 of the Software Engineering course at Flatiron School.
-- ✨ I'm always looking for more connections and advice from people in the field.
+- 🔭 I’m currently working on Phase 4 of the Software Engineering course at Flatiron School.
+- ✨ I'm always looking for more connections and advice.
+- ⚡  Fun fact: I'm transitioning from a career in horticulture.
 - 📫 You can reach me at: gucc@umich.edu
 
 <!--
