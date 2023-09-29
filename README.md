@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Gucci 
-- 🌱 I’m currently learning full stack web development.
-- 🔭 I’m currently working on Phase 5 (capstone project) of the Flatiron School software engineering course.
+- 🌱 I’m currently learning Python and GIS.
+- 🔭 I graduated from Flatiron School's Software Engineering program in August 2023.
 - ✨ I'm always looking for more connections and advice.
 - ⚡  Fun fact: I'm transitioning from a career in horticulture.
 - 📫 You can reach me at: gucc@umich.edu
