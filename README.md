@@ -1,8 +1,4 @@
 - 👋 Hi, I'm Gucci 
-- 🌱 I’m currently learning Python and GIS.
-- 🔭 I graduated from Flatiron School's Software Engineering program in August 2023.
-- ✨ I'm always looking for more connections and advice.
-- ⚡  Fun fact: I'm transitioning from a career in horticulture.
 - 📫 You can reach me at: gucc@umich.edu
 
 <!--
